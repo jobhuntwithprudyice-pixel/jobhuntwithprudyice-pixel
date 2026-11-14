@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://jobhuntwithprudyice-pixel.github.io"><img src="https://img.shields.io/badge/Portfolio-View%20my%20work-CC5C1A?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://jobhuntwithprudyiceltd.com"><img src="https://img.shields.io/badge/Website-jobhuntwithprudyiceltd.com-1B4332?style=for-the-badge" alt="Website"></a>
   <a href="https://maps.app.goo.gl/gV7G4y7g9vFd1WA69"><img src="https://img.shields.io/badge/Google%20Reviews-Read%20them-CC5C1A?style=for-the-badge&logo=google&logoColor=white" alt="Google Reviews"></a>
   <a href="https://linkedin.com/company/job-hunt-with-prudyice"><img src="https://img.shields.io/badge/LinkedIn-Follow-1B6B6B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -164,6 +165,7 @@ Real feedback from job seekers and employers is on my **[Google Reviews page](ht
 - 🎯 **Job seekers:** CV, personal statement or interview support. We never charge job seekers to be put forward for roles.
 - 🌍 **Partners:** open to partnerships in recruitment and remote talent placement.
 
+💼 **[View my full portfolio](https://jobhuntwithprudyice-pixel.github.io)**
 📧 **talent@jobhuntwithprudyiceltd.com**
 🌐 **[jobhuntwithprudyiceltd.com](https://jobhuntwithprudyiceltd.com)**
 
