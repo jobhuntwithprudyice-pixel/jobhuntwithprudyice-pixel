@@ -2,7 +2,7 @@
   <img src="banner.svg" alt="Job Hunt with Prudyice" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Prudence 👋</h1>
+<h1 align="center">Hi, I'm Prudent 👋</h1>
 
 <p align="center">
   <b>Founder · Recruiter · Career Coach · AI-Powered Builder · Certified ScrumMaster</b><br>
