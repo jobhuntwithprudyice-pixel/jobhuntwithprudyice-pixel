@@ -76,8 +76,38 @@ I turn ideas into finished, working things using AI, and I'm creative about how 
 - 🎬 **Produce educational videos** using AI text-to-speech character voices, built around a hook, a call to action and a takeaway
 - 📊 **Built tracking systems** for recruitment pipeline, ATS scoring, placements and revenue, with dashboards and formulas
 - ⚙️ **Automate document production** with Node.js and Python for polished CVs, PDFs and agreements
+- 📣 **Run an automated content pipeline**: AI-made memes, carousels, reels and recruiter stories scheduled months ahead to Facebook and Instagram
 - 🧠 **Design prompts and workflows** that turn one client message into an advert, caption, invoice and receipt
 - 🔍 **Use AI for research and outreach**, from finding target companies to drafting partnership proposals
+
+<img src="divider.svg" width="100%" alt="">
+
+## 🚀 Flagship Build: Job Hunt with Prudyice ATS
+
+A custom **applicant tracking and recruitment management platform** I'm building step by step with AI, for both permanent and temporary recruitment.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧑‍💼 Recruiter / Admin Portal</h3>
+      Post vacancies, manage the pipeline, screen CVs and track placements.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏢 Employer Portal</h3>
+      Employers submit roles, review shortlisted candidates and follow progress.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🙋 Candidate Portal</h3>
+      Candidates create profiles, upload CVs and apply for roles.
+    </td>
+  </tr>
+</table>
+
+- 🤖 **AI CV screening** against each job description
+- 💱 **Multi-currency** support (GBP, Naira, Ghana cedis), serving the Nigerian market first with the UK to follow
+- 🗄️ **Stack:** Next.js, Supabase (database, auth and CV storage), OpenAI API, deployed on Vercel
+- 🌐 Being moved onto my own domain as a subdomain of jobhuntwithprudyiceltd.com
+- 📋 Delivered as one managed **Jira** backlog, working as product owner and scrum master
 
 <img src="divider.svg" width="100%" alt="">
 
@@ -86,11 +116,13 @@ I turn ideas into finished, working things using AI, and I'm creative about how 
 | Project | Status |
 |---|---|
 | 🌐 Business website on GitHub Pages | ✅ Live |
+| 🚀 Job Hunt with Prudyice ATS: recruiter, employer and candidate portals | 🔨 In progress |
 | 📊 Applicant recruitment & placement tracking system | ✅ Built |
 | ✅ CV scoring & ATS tracking workflow | ✅ Built |
 | 💰 Placement & revenue tracker | ✅ Built |
 | ⚙️ Repeatable client workflow (ad, caption, invoice, receipt) | ✅ In use |
 | 🗂️ Branded document system (CVs, brochures, agreements, terms of business) | ✅ In use |
+| 📣 Automated social media content pipeline (scheduled memes, carousels, reels and stories) | ✅ Running |
 | 📱 Job seeker app for the Nigerian market | 🔨 In progress |
 | 🌍 International recruitment service | 🔨 In progress |
 
@@ -132,6 +164,11 @@ Upload your images to this repository, then remove the arrows around this block.
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets">
@@ -153,6 +190,7 @@ Real feedback from job seekers and employers is on my **[Google Reviews page](ht
 
 ## 🌱 Currently
 
+- 🚀 Building the Job Hunt ATS, with AI CV screening and three portals
 - 🔨 Building the Job Hunt job seeker app
 - 🌍 Growing international recruitment and a UK employer placement service
 - 💻 Learning to code, one project at a time
